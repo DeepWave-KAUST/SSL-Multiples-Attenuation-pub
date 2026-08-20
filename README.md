@@ -1,6 +1,14 @@
-Reproducible material for **DW0085:Self-supervised free-surface multiple suppression - Shijun Cheng, Ning Wang, Tariq Alkhalifah**
+**<div align="center">
 
-[Click here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/REPORTS/DW0085?csf=1&web=1&e=9wwTFm) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
+<h1><strong>Self-supervised surface-related multiple suppression with multidimensional convolution</strong></h1>
+
+<h4>Shijun Cheng, Ning Wang, and Tariq Alkhalifah</h3>
+
+<h4><em>DeepWave Consortium, King Abdullah University of Science and Technology (KAUST)</em></h4>
+
+<p><em>Corresponding author: Shijun Cheng (<a href="mailto:sjcheng.academic@gmail.com">sjcheng.academic@gmail.com</a>)</em></p>
+
+</div>**
 
 # Project structure
 This repository is organized as follows:
