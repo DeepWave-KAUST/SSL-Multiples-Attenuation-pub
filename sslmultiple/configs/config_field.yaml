@@ -1,0 +1,36 @@
+# Training file folder
+dir_train: ../dataset/field_data/train/
+
+# Warmup phase
+level_warmup: [0.05, 0.12]
+# IDR phase
+level_idr: [0.05, 0.12]
+
+# Training mode
+train_mode: SSL
+
+# Training setting
+in_channels: 1
+out_channels: 1
+total_epoch: 80
+warmup_epoch: 50
+batch_size: 16
+num_workers: 1
+lr: !!float 2e-4
+loss_type: l1         # option: l1 and l2
+optimizer: AdamW      # option: AdamW and Adam
+wd: 0
+schedule: multistep   # option: cosine and multistep
+milestones: [25, 50]
+gamma: 0.6
+print_freq: 100       # iterations
+save_state_freq: 5    # epoch
+epsilon: 0.1
+
+# Testing file folder
+dir_test: ../dataset/field_data/test/
+
+# Test setting
+cp_list: [40, 50, 55, 60, 65, 70, 75]  # select trained model in which epoch
+
+
