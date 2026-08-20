@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
 <h1><strong>Self-supervised surface-related multiple suppression with multidimensional convolution</strong></h1>
 
@@ -8,7 +8,7 @@
 
 <p><em>Corresponding author: Shijun Cheng (<a href="mailto:sjcheng.academic@gmail.com">sjcheng.academic@gmail.com</a>)</em></p>
 
-</div>**
+</div>
 
 # Project structure
 This repository is organized as follows:
