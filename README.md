@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><strong>Self-supervised surface-related multiple suppression with multidimensional convolution</strong></h3>
+<h1><strong>Self-supervised surface-related multiple suppression with multidimensional convolution</strong></h3>
 
 </div>
 
