@@ -66,7 +66,7 @@ Main components:
 
 To support reproducibility, the datasets and trained models used in the manuscript are provided through Zenodo:
 
-**Zenodo DOI:** `https://doi.org/10.5281/zenodo.22036017`
+> **DOI: [10.5281/zenodo.22036017](https://doi.org/10.5281/zenodo.22036017)**
 
 The Zenodo record contains two compressed files:
 
@@ -163,9 +163,7 @@ conda activate ssl_demultiple
 
 Download `dataset.zip` and `train_model.zip` from:
 
-```text
-https://doi.org/10.5281/zenodo.22036017
-```
+> **DOI: [10.5281/zenodo.22036017](https://doi.org/10.5281/zenodo.22036017)**
 
 Extract `dataset.zip` into the repository root directory so that the resulting structure is:
 
@@ -473,9 +471,7 @@ conda activate ssl_demultiple
 
 4. Download the supplementary files from Zenodo:
 
-```text
-https://doi.org/10.5281/zenodo.22036017
-```
+> **DOI: [10.5281/zenodo.22036017](https://doi.org/10.5281/zenodo.22036017)**
 
 5. Extract `dataset.zip` into the repository root directory.
 
@@ -525,9 +521,7 @@ If the available GPU memory is insufficient for the default training settings, t
 
 The datasets and trained models used to reproduce the experiments in the manuscript are available through the accompanying Zenodo record:
 
-```text
-https://doi.org/10.5281/zenodo.22036017
-```
+> **DOI: [10.5281/zenodo.22036017](https://doi.org/10.5281/zenodo.22036017)**
 
 The source code is available at:
 
