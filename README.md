@@ -44,7 +44,6 @@ repository-root/
 │   └── trainer.py                   # Training utilities
 ├── environment.yml                  # Conda environment configuration
 ├── install_env.sh                   # Environment installation script
-├── LICENSE                          # Repository license
 └── README.md
 ````
 
