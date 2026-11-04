@@ -58,7 +58,7 @@ class Base_trainer():
         self.optimizer.zero_grad()
         self.output = self.net(self.inputs)
         loss1 = self.criterion(self.output, self.labels)
-        loss2 = self.msssim(self.output, self.labels)
+        loss2 = 1 - self.msssim(self.output, self.labels)
         loss = loss1 + self.args.epsilon*loss2
         loss.backward()
         self.optimizer.step()
