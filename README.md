@@ -1,4 +1,4 @@
-</div>
+<div align="center">
 
 <h1><strong>Self-supervised seismic surface-related multiple suppression with multidimensional convolution</strong></h1>
 
