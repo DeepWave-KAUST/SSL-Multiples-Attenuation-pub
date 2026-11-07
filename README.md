@@ -1,6 +1,12 @@
-<div align="center">
+</div>
 
-<h1><strong>Self-supervised surface-related multiple suppression with multidimensional convolution</strong></h3>
+<h1><strong>Self-supervised seismic surface-related multiple suppression with multidimensional convolution</strong></h1>
+
+<h4>Shijun Cheng, Ning Wang, and Tariq Alkhalifah</h3>
+
+<h4><em>DeepWave Consortium, King Abdullah University of Science and Technology (KAUST)</em></h4>
+
+<p><em>Corresponding author: Shijun Cheng (<a href="mailto:sjcheng.academic@gmail.com">sjcheng.academic@gmail.com</a>)</em></p>
 
 </div>
 
